@@ -6,6 +6,11 @@ Welcome to **DS-DP-Python**, a repository dedicated to learning and practicing D
 
 ## 📚 Repository Structure
 
+
+
+<summary><strong>DS-DP-Repo Folder Structure</strong></summary>
+
+```plaintext
 /DS-DP-Repo
 │
 ├── README.md                 # Overview, how to use repo, setup instructions
@@ -38,3 +43,5 @@ Welcome to **DS-DP-Python**, a repository dedicated to learning and practicing D
     ├── problem1_description.md
     ├── problem1_solution.py
     └── ...
+
+```
